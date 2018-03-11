@@ -1,0 +1,44 @@
+@media ( max-width :380px){
+    #position{
+        margin:20px 40px 0px 40px;
+    }
+    #position-3{
+        margin:20px 40px 0px 40px;
+    }
+    #chartContainer{
+        margin-left:75px;
+    }
+}
+@media (min-width :380px) and (max-width : 420px){
+    #position{
+        margin:20px 54px 0px 52px;
+    }
+    #position-3{
+        margin:20px 54px 0px 52px;
+    }
+    #chartContainer{
+        margin-left:97px;
+    }
+}
+@media (min-width : 420px) and (max-width : 780px){
+    #position{
+        margin:20px 54px 0px 87px;
+    }
+    #position-3{
+        margin:20px 50px 0px 64px;
+    }
+    #chartContainer{
+        margin-left:166px;
+    }
+}
+@media (min-width : 780px) and (max-width : 1024px){
+    #position{
+        margin:20px 178px 0px 87px;
+    }
+    #position-3{
+        margin:20px 50px 0px 40px;
+    }
+    #chartContainer{
+        margin-left:235px;
+    }
+}

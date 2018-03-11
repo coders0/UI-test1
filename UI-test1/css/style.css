@@ -1,0 +1,54 @@
+body{
+    color:#cacaca;
+}
+#open {
+	width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+	background: #f8655e;
+    border-radius: 25px;
+    transform: rotateZ(135deg);
+}
+#num{
+    
+}
+#wip{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+	background: #779ec9;
+    border-radius: 25px;
+    transform: rotateZ(135deg);
+}
+#resolve{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+	background: #75bab9;
+    border-radius: 25px; 
+    transform: rotateZ(135deg);
+}
+#position{
+    margin-right:36%;
+}
+#issue{
+    margin-top :4%;
+}
+#style{
+    font-family: HelveticaNeue;
+	font-size: 18px;
+	font-weight: 500;
+    color: #9c9c9c;
+}
+.graph{
+    margin-top:150px;
+	font-family: HelveticaNeue;
+	font-size: 18px;
+	font-weight: 500;
+	color: #9c9c9c;
+}
+#chartContainer{
+    height: 370px; 
+    width: 50%;
+    margin-left:290px;
+}
